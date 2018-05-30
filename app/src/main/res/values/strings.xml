@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name" translatable="false">PastoApp</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_acercade">Acerca de..</string>
+    <string name="action_info">Info</string>
+    <string name="tvk1">Estudiante</string>
+    <string name="t8">Ingeniera de sistemas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="munipasto">Municipios Pasto</string>
+    <string name="escenarios">Escenarios Deportivos</string>
+    <string name="empres">Empresa de Taxis</string>
+    <string name="bibliote">Bibliotecas</string>
+    <string name="sitios">Sitios Turisticos</string>
+    <string name="hospi">Hospitales Pasto</string>
+
+    <string name="open">Abrir</string>
+
+    <string name="dane">Dane</string>
+    <string name="correo">Correo</string>
+    <string name="direccion">Dirección</string>
+    <string name="nit">Nit</string>
+    <string name="alcalde">Alcalde</string>
+    <string name="municipio">Municipio</string>
+    <string name="portal">Portal</string>
+    <string name="telefono">Telefono</string>
+
+
+    <string name="infopasto">En Pasto, fundada en 1539, cada año se inicia con mucha alegría porque en la primera semana
+        de enero el color de la gente no interesa durante el Carnaval de Negros y Blancos. Esta es la fiesta principal de Nariño,
+        en la que convergen la integración racial y la tolerancia. Otro espectáculo único se aprecia cerca de Ipiales, donde el santuario
+        de Nuestra Señora de Las Lajas emerge del cañón del río Guáitara.</string>
+    <string name="argentina_full_snippet">
+        La empresa Auto Pasto S A se encuentra ubicada en la localidad de PASTO, en el
+        departamento de NARIÑO. El domicilio social de esta empresa es CARRERA 19 13 56 LAS AMERICAS SEGUNDO PISO, PASTO, NARIÑO.
+    </string>
+    <string name="argentina_COONARTAX">
+       Es una empresa solidaria Nariñense, posicionada en el sector de transporte individual de pasajeros con una amplia gama de vehículos tipo taxi, propiedad de
+        sus asociados, que prestan su servicio en la ciudad de Pasto comprometidos con la prestación de un servicio eficiente
+    </string>
+    <string name="argentina_COOTAXLUJO">
+        Es una entidad de Economía solidaria de naturaleza cooperativa con domicilio en Pasto- Nariño. Cuyo objeto social se desarrolla acorde
+        al Acuerdo Corporativo previsto en el artículo 4 de la Ley 79 de 1988, para lo cual desarrollara sus actividades sin ánimo de lucro,
+        siendo los asociados los aportantes y los gestores de la empresa cooperativa creada con el objeto de producir conjunta y eficientemente,
+        bienes y servicios para satisfacer las necesidades de sus asociados y al Público en general según sea el caso.
+    </string>
+    <string name="argentina_EMPRESAGALENA">
+    Esta empresa fué constituida como SOCIEDAD ANONIMA y se dedica a Transporte de pasajeros.
+    </string>
+    <string name="argentina_EXPRESOJUANAMBU">
+        Somos una Empresa Nariñense con Responsabilidad, Eficiencia y Excelente servicio en:
+        * Taxi Satelital
+        * Servicio Técnico de Comunicaciones
+        * Centro de Lubricacion
+        * Montallantas Automatico
+    </string>
+    <string name="argentina_FLOTAGALERAS">
+        FLOTA GALERAS S.A.
+    NIT: 891.200.061-0
+    TRADICION, CALIDAD Y CUMPLIMIENTO
+    SOMOS LA MEJOR EMPRESA DE LA CIUDAD DEDICADA AL TRANSPORTE URBANO
+    </string>
+    <string name="argentina_FLOTAGUAITARA">
+        La empresa Flota Guaitara S A se encuentra ubicada en la localidad de PASTO, en el departamento de NARIÑO.
+        El domicilio social de esta empresa es CARRERA 14 20 34 BARRIO FA, PASTO, NARIÑO.
+
+        La forma jurídica de Flota Guaitara S A es SOCIEDAD ANONIMA y su principal actividad es "Transporte de pasajeros"
+    </string>
+    <string name="argentinaTAXIEXPRESS">
+        Es una empresa Legalmente Constituida, con 25 años de experiencia en el Transporte Público Individual.
+        Trabajamos para brindarte el mejor servicio. Buscando siempre mejorar y renovarnos para seguir siendo: Tu taxi de confianza!
+    </string>
+    <string name="title_activity_hospitales_pasto_maps">Map</string>
+
+    <string name="titulo">LAS LAJAS</string>
+    <string name="titulo2">LA LAGUNA VERDE</string>
+    <string name="titulo3">LA COCHA</string>
+    <string name="titulo4">CHIMAYOY</string>
+
+    <string name="descripcion">El Santuario de Nuestra Señora del Rosario de las Lajas es un templo y basílica para el culto cristiano y veneración de Nuestra Señora de las Lajas...</string>
+    <string name="descripcion2">La Laguna Verde del Volcán Azufral en Nariño es una de las dos "Lagunas Verdes" que duermen su sueño eterno en los repliegues de los Andes colombianos...</string>
+    <string name="descripcion3">La laguna de la Cocha, también llamada lago Guamuez, es en un gran embalse natural de origen glacial, ubicado en la locación colombiana ...</string>
+    <string name="descripcion4">Un lugar ideal para disfrutar de la naturaleza y descansar. El objetivo de éste es informar a turistas y pastusos, sobre las medidas de cuidado ambiental...</string>
+</resources>
